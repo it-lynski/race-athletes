@@ -1,1 +1,1 @@
-# sprint-startlist
+# sprint-athletes
