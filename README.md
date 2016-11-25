@@ -8,7 +8,5 @@ Datastorage:
 - Mongodb
 
 Infrastructure:
-- heroku (deploment)
-- mLap (for Mongodb)
-
-Check https://devcenter.heroku.com/articles/mean-apps-restful-api
+- docker (container)
+- mLab (for Mongodb)
